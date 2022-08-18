@@ -1,1 +1,3 @@
 
+I am Reseting the file using reset command
+i am trying to reset
