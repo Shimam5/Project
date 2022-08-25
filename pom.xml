@@ -5,7 +5,7 @@
 	<artifactId>Project</artifactId>
 	<packaging>war</packaging>
 	<version>8.2.0</version>
-	<name>Java Home Project</name>
+	<name>Project</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
