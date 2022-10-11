@@ -1,0 +1,19 @@
+aws
+
+cloudformation
+	ec2 instances
+	ecs containers
+	s3 storage bucket
+
+ec2
+ can run containers in ec2
+
+cloudwatch
+	monitoring tool 
+
+codepipeline
+	highly simplifies  manage your CI/CD  jenkins,github
+
+
+
+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
